@@ -3,8 +3,6 @@
 
 Tensorflow implementation of the [paper](https://ieeexplore.ieee.org/document/11006945) "Distributed Hierarchical Deep Reinforcement Learning for Semantic-aware Resource Allocation". 
 
-Part of this work has been presented at the IEEE International Conference on Communications 2023 [paper](https://ieeexplore.ieee.org/document/10279009)
-
 # Introduction
 Beyond the traditional quality of experience (QoE) optimization that focuses on bit transmission, taking into account semantic QoE can better optimize the network to improve user experience. This paper develops a novel distributed hierarchical deep reinforcement learning (DHDRL) framework with a two-layer control strategy in different timescales to optimize QoE in the downlink multi-cell network including the semantic rate and accuracy. Specifically, we decompose the optimization problem into two sub-problems, beamforming and power allocation as well as semantic resource allocation, resulting in an infinite-horizon discrete and a finite-horizon continuous-time Markov decision processes. Two-layer neural networks (NNs) are proposed to solve the sub-problems. At the network level, a distributed high-level NN is proposed to mitigate the inter-cell interference and improve the network performance on a large timescale, while at the link level, another distributed low-level NN to improve the semantic compression rate and meet various semantic accuracy and rate requirements on a small timescale. Numerical results show that DHDRL achieves at least a 19.07% performance gain over the single-layer method, maintains effectiveness in high-dimensional scenarios, and exhibits strong generalization across a variety of multi-objective optimization problems.
 
