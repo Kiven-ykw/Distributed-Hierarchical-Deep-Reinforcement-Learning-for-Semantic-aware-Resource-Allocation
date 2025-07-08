@@ -26,7 +26,6 @@ Install the environment and run the hier_main.py function directly for training
 ## QoE score versus times lots for different schemes
 
 ![ ](./figure/TimeslotVSqoe_S10_P20_C3-eps-converted-to.png)
-> (a) tested in. (a) 3 cells
 
 # Citation
 
@@ -44,6 +43,3 @@ Please use the following BibTeX citation if you use this repository in your work
   keywords={Optimization;Quality of experience;Semantic communication;Resource management;Array signal processing;Wireless networks;Artificial neural networks;Accuracy;Vectors;Interference;Deep reinforcement learning;semantic-aware network;semantic communications;semantic compression;beamforming and power allocation},
   doi={10.1109/TVT.2025.3571485}}
 ```
-
-# Contact
-Please contact 1203304410@qq.com if you have any questions about the codes.
