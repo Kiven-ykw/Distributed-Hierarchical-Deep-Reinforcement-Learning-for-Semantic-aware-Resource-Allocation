@@ -40,7 +40,7 @@ Beyond the traditional quality of experience (QoE) optimization that focuses on 
 
 ## Visualization Results
 
-![ ](./figure/K_heatmap-eps-converted-to.pdf)
+![ ](./figure/K_heatmap-eps-converted-to.png)
 >  Heatmap of semantic compression rates for different semantic rate requirements.
 
 
