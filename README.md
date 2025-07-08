@@ -25,19 +25,8 @@ Install the environment and run the hier_main.py function directly for training
 
 ## QoE score versus times lots for different schemes
 
-![ ](./figure/results_CompressionRate_AWGN.png)
->  Performance at different CRs over the AWGN channel, where the SNR is 10 dB.
-
 ![ ](./figure/TimeslotVSqoe_S10_P20_C3-eps-converted-to.png)
 > (a) tested in. (a) 3 cells
-
-
-
-## Visualization Results
-
-![ ](./figure/K_heatmap-eps-converted-to.png)
->  Heatmap of semantic compression rates for different semantic rate requirements.
-
 
 # Citation
 
