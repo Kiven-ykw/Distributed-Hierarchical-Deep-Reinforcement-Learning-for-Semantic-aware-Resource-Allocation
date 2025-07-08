@@ -1,12 +1,4 @@
 
-
-# Recommend
-
-K. Yu, Q. He, C. Yu, X. Yang and G. Wu, "Distributed Hierarchical Deep Reinforcement Learning for Semantic-aware Resource Allocation," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3571485.
-
-If you find the code is useful for your research, please cite the aforementioned paper.
-
-
 # Distributed Hierarchical Deep Reinforcement Learning for Semantic-aware Resource Allocation
 
 Tensorflow implementation of the [paper](https://ieeexplore.ieee.org/document/11006945) "Distributed Hierarchical Deep Reinforcement Learning for Semantic-aware Resource Allocation". Part of this work has been presented at the IEEE International Conference on Communications 2023 [paper](https://ieeexplore.ieee.org/document/10279009)
