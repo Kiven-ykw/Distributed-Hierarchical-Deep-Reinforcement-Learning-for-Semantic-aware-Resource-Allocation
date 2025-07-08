@@ -23,7 +23,7 @@ Beyond the traditional quality of experience (QoE) optimization that focuses on 
 
 # Quick Start
 
-
+Install the environment and run the hier_main.py function directly for training
 
 # Experimental results
 
