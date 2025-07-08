@@ -10,11 +10,6 @@ Beyond the traditional quality of experience (QoE) optimization that focuses on 
 
 ![ ](./figure/DHDRL-SystemModel.png)
 >  Illustration of the proposed semantic-awaremulti-cell communication network. Each BS serves the corresponding UTs and interferes with the non-serving UTs at the same time, and dynamically adjusts the beamforming, power allocation, and semantic compression rate according to the user requirements and channel conditions, so as to improve the transmission performance.
-![ ](./figure/MultiTimeBPAandSRA.png)
->  Illustration of the proposed multi-timescale intelligent BPA and SRA strategy for the semantic-aware wireless networks.
-
-![ ](./figure/HierLeanringFramework.png)
->   Illustration of distributed hierarchical intelligent decision-making process.
 
 
 # Prerequites
