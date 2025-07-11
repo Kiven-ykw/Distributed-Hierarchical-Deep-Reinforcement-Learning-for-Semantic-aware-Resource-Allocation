@@ -27,7 +27,7 @@ Install the environment and run the hier_main.py function directly for training
 
 # Citation
 
-Please use the following BibTeX citation if you use this repository in your work:
+Please use the following BibTeX citation If you find the code is useful for your research:
 
 ```
 @ARTICLE{yu2025distributed,
