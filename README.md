@@ -35,9 +35,9 @@ Please use the following BibTeX citation If you find the code is useful for your
   journal={IEEE Transactions on Vehicular Technology}, 
   title={Distributed Hierarchical Deep Reinforcement Learning for Semantic-aware Resource Allocation}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-13},
+  volume={74},
+  number={10},
+  pages={16322-16334},
   keywords={Optimization;Quality of experience;Semantic communication;Resource management;Array signal processing;Wireless networks;Artificial neural networks;Accuracy;Vectors;Interference;Deep reinforcement learning;semantic-aware network;semantic communications;semantic compression;beamforming and power allocation},
   doi={10.1109/TVT.2025.3571485}}
 ```
